@@ -71,7 +71,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #追加分
-# gem 'jquery-rails'
+gem 'jquery-rails'
 
 #rails 04 追加分
-#gem 'bcrypt'
+gem 'bcrypt'
