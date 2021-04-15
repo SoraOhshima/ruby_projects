@@ -23,6 +23,7 @@ class SessionsController < ApplicationController
    session[:user_id] = user.id
   end
   
+  #
   def session_params
     params.require(:session).permit(:email, :password)
   end

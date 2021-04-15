@@ -75,3 +75,6 @@ gem 'jquery-rails'
 
 #rails 04 追加分
 gem 'bcrypt'
+
+#rails 06 追加分
+gem "carrierwave"
